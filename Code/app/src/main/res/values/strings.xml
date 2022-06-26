@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Move ball</string>
+    <string name="cliquez_ici">Cliquez ici</string>
+    <string name="ici_c_est_un_switch">Ceci est un switch</string>
+    <string name="presentationGame">Le but de notre application est de créé un jeu qui consistera a déplacé une boule sur un parcours. Pour ce faire l\'utilisateur devra utiliser le gyroscope afin de contrôler le déplacement de la boule. Le parcours sera constitué de vide, ainsi que d\'obstacles tel que des portes, quelques trous etc… Bonne partie</string>
+    <string name="jeu">Jeu</string>
+    <string name="accueil">Accueil</string>
+    <string name="button_text">Button</string>
+    <string name="comment_jouer">Comment Jouer</string>
+    <string name="game_over">Game Over !</string>
+    <string name="rejouer">rejouer</string>
+    <string name="victory">Victory !!</string>
+    <string name="jouer">Jouer</string>
+    <string name="Moveball">MoveBall</string>
+    <string name="score">Score :</string>
+    <string name="score_number">0</string>
+</resources>
